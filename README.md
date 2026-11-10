@@ -9,7 +9,7 @@ Free Windows tool to create addon clothing for FiveM without Blender or OpenIV.
 
 ## Download
 
-[**VargasClothing.exe**](https://github.com/geimvs/vargas-clothing/raw/main/VargasClothing.exe) (Windows, about 72 MB, no installer)
+[**VargasClothing.exe**](https://github.com/vargasISDK/vargas-clothing/raw/main/VargasClothing.exe) (Windows, about 72 MB, no installer)
 
 ## What it does
 
